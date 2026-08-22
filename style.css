@@ -261,6 +261,10 @@
             gap: 25px;
         }
 
+         .news a {
+            text-decoration: none;
+        }
+
         .news-card {
             background: white;
             padding: 25px;
