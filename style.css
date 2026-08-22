@@ -174,11 +174,6 @@
             color: #667085;
         }
 
-        .news a {
-            text-decoration: none;
-            color: inherit;
-        }
-
 
         /* EXPLORATION CARDS */
         .cards {
@@ -187,9 +182,10 @@
             gap: 20px;
         }
 
-        .cards a {
+        .cards a,
+        .cards a h2,
+        .cards a p {
             text-decoration: none;
-            color: inherit;
         }
 
         .card {
